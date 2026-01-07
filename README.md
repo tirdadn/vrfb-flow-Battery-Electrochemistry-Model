@@ -14,7 +14,7 @@ web-based modeling tool for Vanadium Redox Flow Battery (VRFB) analysis, paramet
 
 **Website:**
 ```
-(https://vrfb3dporousmodel.streamlit.app/)
+https://vrfb3dporousmodel.streamlit.app/
 
 ```
 vrfb
